@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<UserSecretsId>azure-b2c-demo-web-client</UserSecretsId>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Identity.Web" Version="1.0.0" />
+		<PackageReference Include="Microsoft.Identity.Web.UI" Version="1.0.0" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SharpProg.Tutorial.AzureB2C.Core\SharpProg.Tutorials.AzureB2C.Core.csproj" />
+	</ItemGroup>
+
+</Project>

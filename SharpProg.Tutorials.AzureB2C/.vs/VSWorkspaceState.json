@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1\\Razor",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1\\Razor\\Views",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Home",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Products",
+    "\\src\\SharpProg.Tutorials.AzureB2C.WebClient\\obj\\Debug\\netcoreapp3.1\\Razor\\Views\\Shared"
+  ],
+  "SelectedNode": "\\src\\SharpProg.Tutorials.AzureB2C.sln",
+  "PreviewInSolutionExplorer": false
+}

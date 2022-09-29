@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Usc53kmYPhTxM/Sx+Fy1p6g+u1Nwr1TRfImu2ilqi+UF28CmXFxViWkYEmitCyU+oDRH0G6D9wlo4srKAbla4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tron\\Desktop\\B2C demo\\SharpProg.Tutorials.AzureB2C\\src\\SharpProg.Tutorial.AzureB2C.Core\\SharpProg.Tutorials.AzureB2C.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tron\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tron\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tron\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

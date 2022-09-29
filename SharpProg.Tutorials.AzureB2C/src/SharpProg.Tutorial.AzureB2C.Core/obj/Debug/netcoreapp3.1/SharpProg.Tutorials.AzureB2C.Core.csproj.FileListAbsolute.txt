@@ -1,0 +1,10 @@
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\bin\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.deps.json
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\bin\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.dll
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\bin\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.pdb
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.csproj.AssemblyReference.cache
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.AssemblyInfoInputs.cache
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.AssemblyInfo.cs
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.csproj.CoreCompileInputs.cache
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.dll
+C:\Users\tron\Desktop\B2C demo\SharpProg.Tutorials.AzureB2C\src\SharpProg.Tutorial.AzureB2C.Core\obj\Debug\netcoreapp3.1\SharpProg.Tutorials.AzureB2C.Core.pdb
