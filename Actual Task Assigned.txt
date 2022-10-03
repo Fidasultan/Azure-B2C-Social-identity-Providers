@@ -1,0 +1,14 @@
+
+
+	Salam Gents
+Can you please study and tell me how we can do the task below:
+We have an Azure Web App (.NET/C#, Azure SQL) that currently authenticates users against a records in our DB.
+
+We need to configure the app to authenticate against the following identity providers:
+
+1. Google
+2. Facebook
+3. Apple
+4. Microsoft
+
+Login page needs to be modified to accommodate new identities as illustrated.
